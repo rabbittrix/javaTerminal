@@ -25,7 +25,7 @@ git push origin my-feature
 7 - Open a Pull Request: Open a pull request describing the changes you made and await review.
 
 ## How to Use
-This repository contains a variety of advanced Python scripts and projects. Feel free to explore, test, and utilize these resources according to your needs. Make sure to have the necessary dependencies installed.
+This repository contains a variety of advanced Java scripts and projects. Feel free to explore, test, and utilize these resources according to your needs. Make sure to have the necessary dependencies installed.
 
 ## How to Report Issues
 If you encounter any problems or have any questions, please open an issue in this repository. We'll be happy to assist you!
