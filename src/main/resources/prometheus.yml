@@ -1,0 +1,8 @@
+scrape_configs:
+  - job_name: 'https-gslb-api'
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['localhost:8443']
+    scheme: 'https'
+    tls_config:
+      insecure_skip_verify: true
